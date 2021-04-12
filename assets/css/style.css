@@ -238,7 +238,7 @@ img {
 }
 
 .text-primary {
-    color: #7c4fe0 !important;
+    color: #E77C58 !important;
 }
 
 .text-secondary {
@@ -275,7 +275,7 @@ img {
 }
 
 .section-heading > span {
-    color: #222;
+    color: #E77C58;
 }
 
 .section-heading > h2 {
@@ -287,7 +287,7 @@ img {
     content: '';
     height: 2px;
     width: 70px;
-    background-color: #7c4fe0;
+    background-color: #E77C58;
     bottom: -15px;
     left: 50%;
     -webkit-transform: translateX(-50%);
@@ -438,7 +438,7 @@ img {
     width: 100%;
     display: block;
     border-radius: 120px;
-    background: linear-gradient(-47deg, #8731E8 0%, #4528DC 100%);
+    background: linear-gradient(-47deg, #E77C58 0%, #E77C58 100%);
     bottom: 0;
     right: 0;
     -webkit-transform: translate(35%,-28%) rotate(-35deg);
@@ -511,7 +511,7 @@ img {
 .btn.sApp-btn:before,
 .bg-overlay::after,
 .benifits-item:after {
-    background: linear-gradient(-47deg, #8731E8 0%, #4528DC 100%);
+    background: linear-gradient(30deg, #006973 0%, #006973 100%);
 }
 
 /*SOCIAL ICONS*/
@@ -1190,7 +1190,7 @@ img {
 
 .single-counter span {
     font-size: 3em;
-    background: linear-gradient(-47deg, #8731E8 0%, #4528DC 100%);
+    background: linear-gradient(-47deg, #E77C58 0%, #E77C58 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
