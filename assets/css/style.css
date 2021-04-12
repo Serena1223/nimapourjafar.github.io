@@ -76,6 +76,8 @@ body {
 }
 
 img.navbar-brand-regular{
+    padding-top: 25px;
+    padding-left: 10px;
     width:100px;
     height:auto;
 }
