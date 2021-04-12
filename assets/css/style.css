@@ -75,6 +75,14 @@ body {
     color: #565656;
 }
 
+img.navbar-brand-regular{
+    width:100px;
+    height:auto;
+}
+img.navbar-brand-sticky{
+    width:200px;
+    height:auto;
+}
 .main {
     background: #fff;
 }
